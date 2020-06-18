@@ -124,6 +124,4 @@ Type: `function (opts)`
 
 Using this software to violate the terms and conditions of any third-party service is strictly against the intent of this software. By using this software, you are acknowledging this fact and absolving the author or any potential liability or wrongdoing it may cause. This software is meant for testing and experimental purposes only, so please act responsibly.
 
-## License
 
-MIT © [Travis Fischer](https://github.com/transitive-bullshit)
